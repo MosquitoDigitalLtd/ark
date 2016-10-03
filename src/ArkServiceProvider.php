@@ -1,6 +1,6 @@
 <?php
 
-namespace Appitized\Bedrock;
+namespace Appitized\Ark;
 
 use Illuminate\Support\ServiceProvider;
 
